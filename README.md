@@ -1,3 +1,29 @@
+# Fitness Data Analysis
+
+Bellabeat is a women-focused wellness technology company founded in 2013 that develops smart products designed to track health and lifestyle data. With a strong global presence and a digital-first marketing strategy, Bellabeat seeks to leverage smart device usage data to identify growth opportunities and enhance its marketing efforts. This project analyze the **FitBit Fitness Tracker Data** dataset using SQL and Python to identify patterns that can support better business decisions and marketing strategy.
+
+
+## Table of Contents
+
+- [1. Business Scenario](#1-business-scenario)
+- [2. Dataset](#2-dataset)
+- [3. Project Objective](#3-project-objective)
+- [4. Key Questions](#4-key-questions)
+- [5. Tools & Technologies](#5-tools--technologies)
+- [6. Data Preparation & Processing (SQL)](#6-data-preparation--processing-sql)
+  - [6.1 Import data to PostgreSQL](#61-import-data-to-postgresql)
+  - [6.2 Data Transform](#62-data-transform)
+- [7. Data Analysis (Python)](#7-data-analysis-python)
+  - [7.1 Analysis for Activity and Sleep](#71-analysis-for-activity-and-sleep)
+  - [7.2 Data Analysis for Activity and Weight](#72-data-analysis-for-activity-and-weight)
+- [8. Recommendations](#8-recommendations)
+  - [8.1 Promote Personalized Daily Activity Goals](#81-promote-personalized-daily-activity-goals)
+  - [8.2 Encourage Movement and Reduce Sedentary Time](#82-encourage-movement-and-reduce-sedentary-time)
+  - [8.3 Market Sleep Tracking Through Personalized Insights](#83-market-sleep-tracking-through-personalized-insights)
+
+</br>
+
+
 ## **1. Business Scenario**
 
 Bellabeat is a women-focused wellness technology company founded in 2013 that develops smart products designed to track health and lifestyle data. With a strong global presence and a digital-first marketing strategy, Bellabeat seeks to leverage smart device usage data to identify growth opportunities and enhance its marketing efforts.
